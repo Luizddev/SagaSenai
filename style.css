@@ -13,10 +13,14 @@ form {
     width: 300px;
     margin: 200px auto;
     text-align: center;
+    border-color: #0B6477;
+    border-radius: 10px;
+    border-style: groove;
 }
 
 input {
     display: block;
+    padding-left: 10px;
     margin: 10px auto;
     width: 250px;
     height: 30px;
