@@ -19,10 +19,14 @@ O **SagaSenai** visa desenvolver um sistema informatizado que utiliza QR-CODE in
 - Este é um **protótipo sujo**, o que significa que o código ainda não foi refatorado ou otimizado. Pode conter bugs, problemas de desempenho e outras limitações.
 - Mudanças significativas no código e na estrutura do projeto são esperadas nas próximas atualizações.
 
+## Vídeo do Projeto
+
+Assista ao vídeo de demonstração do **SagaSenai** para entender melhor como o sistema funciona e quais são suas funcionalidades principais. [Link para o vídeo](https://youtu.be/_A-_UZJ8cAA?si=etqj55QWN8sLPySq)
+
 ## Como Contribuir
 
 Se você deseja contribuir ou tem sugestões para melhorias, fique à vontade para abrir uma issue ou enviar um pull request. Toda ajuda é bem-vinda!
 
 ## Licença
 
-Este projeto está sob a licença MIT License. Consulte o arquivo LICENSE para mais detalhes.
+Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
